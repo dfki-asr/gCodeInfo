@@ -2,7 +2,7 @@ GCodeInfo
 =========
 
 This is a fork from [GCodeInfo](https://github.com/dietzm/GCodeInfo).
-For more information and for giving all the credits, please see [there](https://github.com/dietzm/GCodeInfo)!
+For more information and for giving some backslapping, please see [there](https://github.com/dietzm/GCodeInfo)!
 
 All that is done here, is to mavenize GCodeInfo.
 

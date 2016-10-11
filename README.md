@@ -1,10 +1,10 @@
 GCodeInfo
 =========
 
-This is a fork from [GCodeInfo]{https://github.com/dietzm/GCodeInfo}.
-For more information, please see there.
+This is a fork from [GCodeInfo](https://github.com/dietzm/GCodeInfo).
+For more information and for giving all the credits, please see [there]((https://github.com/dietzm/GCodeInfo)!
 
-All that is done here, is to convert GCodeInfo into more Maven project.
+All that is done here, is to mavenize GCodeInfo.
 
 Install GCodeInfo into your local Maven repo via
 ```
